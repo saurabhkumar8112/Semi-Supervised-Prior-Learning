@@ -1,5 +1,5 @@
 # Semi-Supervised-Prior-Learning
-This github repo contains all the work done for prior learning in GANs using latent decoders.
+This github repo contains all the work done for prior learning of the latent distribution in GANs using latent decoders. The framework proposed comprises of a 3 player mini-max game.
 Summary of the experimentation to be done
 # Datasets         
 1. ImageNet/Tiny ImageNet
